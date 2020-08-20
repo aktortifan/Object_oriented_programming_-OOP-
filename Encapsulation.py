@@ -37,6 +37,7 @@ nissan = Cars(300, "red", 4)
 toyota = Cars(350, "blue", 4)
 
 #Can be accessible although in different class
+
 ford.set_speed(250)
 ford.get_speed()
 
@@ -44,9 +45,9 @@ ford.speed = 500
 print(ford.speed)
 
 #Only accessible from their own class
+
 ford.set_wheel(34)
 ford.get_wheel()
-
 
 ford.__wheel = 90
 print(ford.__wheel)
