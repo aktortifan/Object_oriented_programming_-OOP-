@@ -1,5 +1,5 @@
 '''
-Polymrphism:
+POLYMORPHISM
     
     -The ability to take or have various forms
     -Ex: The functionality of smarphone: Phone, Messaging, Camera, Mp3 player
